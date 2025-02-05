@@ -1,7 +1,7 @@
 # Homework - 2 
 
 ## Question 1. 
-- [ ] 128.3 MB
+- [ x ] 128.3 MB
 - [ ] 134.5 MB
 - [ ] 364.7 MB
 - [ ] 692.6 MB
@@ -25,7 +25,7 @@ WHERE filename LIKE 'yellow_tripdata_2020%'
 ## Question 4. Number of rows (green, 2020) 
 - [ ] 5,327,301
 - [ ] 936,199
-- [ ] 1,734,051
+- [x ] 1,734,051
 - [ ] 1,342,034
 
 
@@ -36,7 +36,7 @@ WHERE filename LIKE 'green_tripdata_2020%'
 ## Question 5. Number of rows (yellow, March 2021) 
 - [ ] 1,428,092
 - [ ] 706,911
-- [ ] 1,925,152
+- [ x] 1,925,152
 - [ ] 2,561,031
 
 ## Question 6. Timezone for trigger 
